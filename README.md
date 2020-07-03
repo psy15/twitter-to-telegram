@@ -2,6 +2,8 @@
 
 This script will watch the new tweets on twitter and post it to a Telegram channel.
 
+## Config
+
 * Set the following env vars:
   * `USERNAME` - twitter username
   * `TOKEN` - telegram bot token
