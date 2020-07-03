@@ -1,6 +1,6 @@
 # twitter-to-telegram
 
-This script will watch the new tweets on twitter and post it to a Telegram channel.
+This script uses GetOldTweets3 library to get new tweets and post it to a Telegram channel.
 
 ## Config
 
