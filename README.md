@@ -7,7 +7,7 @@ This script will watch the new tweets on twitter and post it to a Telegram chann
 * Set the following env vars:
   * `USERNAME` - twitter username
   * `TOKEN` - telegram bot token
-  * `CHANNEL` - telegram channel name (the bot has to be added as Administrator)
+  * `CHANNEL` - telegram channel name (the bot has to be added as an administrator)
   
 * Run `python3 tweets.py`
 
